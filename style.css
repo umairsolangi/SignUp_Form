@@ -1,0 +1,144 @@
+.logo{
+    display: flex;
+    justify-content: flex-end;
+    margin-top: -390px;
+    margin-right: 100px;
+    padding-top: -50px;
+
+}
+.card-img-top {
+    width: 244px;
+    height: 244px;
+    
+}
+
+.card-text{
+    font-family: sans-serif;
+    text-align: center;
+}
+form img {
+    width: 100px;
+    padding: 20px;
+    margin: 20px;
+}
+
+form h2 {
+    margin-top: -61px;
+    padding: 40px;
+    font-family: 'Noto Sans KR', sans-serif;
+}
+
+.main {
+    padding: 20px;
+    border: 1px solid rgb(138, 138, 138);
+    width: 900px;
+    height: 500px;
+    
+}
+
+.firstname {
+    margin-left: 40px;
+    padding: 8px;
+    
+}
+
+.lastname {
+    margin-left: 40px;
+    padding: 8px;
+}
+
+.email {
+    margin-left: 40px;
+    padding: 8px;
+    margin-top: 23px;
+    width: 400px;
+}
+
+p {
+    margin-left: 40px;
+    margin-top: 5px;
+    font-family: 'Nanum Gothic', sans-serif;
+    font-size: 14px;
+}
+
+a {
+    margin-left: 40px;
+    text-decoration: none;
+    color: #1a73e8;
+    font-family: sans-serif;
+    font-weight: bold;
+}
+
+#password {
+    margin-left: 40px;
+    margin-top: 40px;
+    padding: 8px;
+    width: 160px;
+}
+
+#confirm {
+    padding: 8px;
+    width: 160px;
+    margin: 10px;
+}
+
+.icon {
+    width: 40px;
+    margin-bottom: -35px;
+    margin-left: -25px;
+    
+}
+
+button {
+    margin-left: 230px;
+    border: none;
+    background-color: #1a73e8;
+    color: white;
+    width: 80px;
+    height: 30px;
+    border-radius: 5px;
+    font-weight: bold;
+}
+
+button:hover {
+    background-color: #2869d1;
+    color: white;
+}
+/* margin-left: 627px; */
+input{
+    border-radius: 10px;
+    border: 1px solid rgb(119, 119, 119);
+}
+
+input:focus{
+   outline: none;
+    border: 2px solid rgb(0, 119, 255);
+}
+
+
+.link{
+    
+    text-decoration: none;
+    color: rgb(161, 160, 160);
+    position: relative;
+    left: 600px;
+    bottom: -30px;
+    margin-bottom: 20px;
+    
+}
+
+
+
+
+
+
+  
+ 
+  
+
+  
+  
+  
+  
+  
+  
